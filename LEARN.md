@@ -4,7 +4,11 @@ Hello beautiful people! We will start diving into actual Cadence code to write o
 
 Today, we will be learning the very basics of Cadence code by implementing our first Smart Contract. That is, how to declare a variable, how to write a function, etc.
 
-## Video
+## Before we Start
+
+This quest was written by your *best* friends at Emerald City. If you have any questions along the way, don't be afraid to ask in our <a href="https://discord.gg/emeraldcity" target="_blank">Discord</a>. We would be so happy to help you along your journey.
+
+## Videos
 
 If you'd like some videos to watch, you can watch these two videos (they are very similar):
 
@@ -116,6 +120,8 @@ Smart Contracts are both programs and rulebooks. They allow us to do certain thi
 Today, we learned how to deploy our first contract, declare a variable, write a function, and execute a script. Wow! That's a lot. But it wasn't too bad, right?
 
 ## Quests
+
+You can do these quests on your own, and submit them for review in the <a href="https://discord.gg/emeraldcity" target="_blank">Emerald City Discord</a> where we will review and give feedback on all your responses.
 
 1. On the Flow playground, deploy a contract to account `0x03` called "JacobTucker". Inside that contract, declare a **constant** variable named `is`, and make it have type `String`. Initialize it to "the best" when your contract gets deployed.
 
