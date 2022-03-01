@@ -18,7 +18,7 @@ In order to start making our first Smart Contract, we need to figure out a place
 2) Delete everything in that page.
 
 It should look like this:
-<img src="../images/blanksc.png" alt="drawing" size="400" />
+<img src="https://raw.githubusercontent.com/emerald-dao/questbook-flow-helloworld/main/learn_src/learn_assets/blanksc.png" alt="drawing" size="400" />
 
 What we have done is clicked on the `Account` with address `0x01` and deleted the contract in its account. This brings up an important topic.
 
@@ -78,7 +78,7 @@ Next, we put `self.greeting = "Hello, World!"` inside the `init()` function. Rem
 
 To deploy this contract, click the green "Deploy" button. Your page should look like this:
 
-<img src="../images/helloworld.png" alt="drawing" size="400" />
+<img src="https://raw.githubusercontent.com/emerald-dao/questbook-flow-helloworld/main/learn_src/learn_assets/blanksc.png/helloworld.png" alt="drawing" size="400" />
 
 NOTE: If you're getting errors, try first refreshing the page. If you still see errors like: "GraphQL error", try switching your browser to Google Chrome.
 
@@ -105,7 +105,7 @@ This Script will return the value of greeting, which is "Hello, World!" In order
 
 If you click "Execute" on the right side, you will see in the terminal it prints, "Hello, World!" like below:
 
-<img src="../images/hwscript.png" alt="drawing" size="400">
+<img src="https://raw.githubusercontent.com/emerald-dao/questbook-flow-helloworld/main/learn_src/learn_assets/blanksc.png/hwscript.png" alt="drawing" size="400">
 
 If yours looks like that, you have executed your first script!
 
