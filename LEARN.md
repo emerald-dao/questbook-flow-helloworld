@@ -2,7 +2,7 @@
 
 Hello beautiful people! We will start diving into actual Cadence code to write out first `Hello World` smart contract. You will learn how to declare a variable, write a function, deploy a contract, and read data from that contract.
 
-This quest was written by your *best* friends at Emerald City. If you have any questions along the way, don't be afraid to ask in our <a href="https://discord.gg/emeraldcity" target="_blank">Discord</a>. We would be so happy to help you along your journey.
+This quest was written by your *best* friends at Emerald City. If you have any questions along the way, don't be afraid to ask in our <a href="https://discord.gg/emeraldcity" target="_blank">Discord</a>. We would be so happy to help you along your journey. 
 
 ## Videos
 
